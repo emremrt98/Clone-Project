@@ -1,0 +1,27 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-blue{
+    background-color: #C4E2FF;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.font-small{
+    font-size: 12px;
+}
+
+.col-sm-12 a{
+    margin-right: 5px;
+    color: rgba(0, 0, 0, 0.473);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.text-cl{
+    font-size: 16px;
+    color: rgb(128, 128, 128);
+}
